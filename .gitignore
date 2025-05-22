@@ -1,0 +1,7 @@
+*.pdf
+*.o
+*.s
+**/.vscode/
+**/DebugConfig/
+**/Listings/
+**/Objects/
