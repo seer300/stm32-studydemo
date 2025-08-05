@@ -13,7 +13,7 @@ int main(){
 	while(1){	
 		keynum = Key_Getnum();
 		if( keynum == 1 ){
-			LED1_TURN();
+			LED1_TURN(); 
 		}
 		if( keynum == 2 ){
 			LED2_TURN();
